@@ -1,0 +1,7 @@
+Herança - capacidade de um ojeto herdar comportamentos e atributos de outro objeto
+
+Encapsulamento - tem como premissa proteger atributos/propriedades de uma classe fazendo que as alterações sejam feitas apenas por metodos definidos na propria classe
+
+Abstração - define um contrato que pode nao possuir nenhum tipo de inteligência, porém a classe que implementa o contrato tem o dever de implementar o que deve ser feito
+
+Polimorfismo - fornece a capacidade de herdar métodos da classe pai e sobrescrever seu comportamento

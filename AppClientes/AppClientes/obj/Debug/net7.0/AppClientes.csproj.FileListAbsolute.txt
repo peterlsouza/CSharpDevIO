@@ -1,0 +1,15 @@
+C:\Labs\Csharp\AppClientes\AppClientes\bin\Debug\net7.0\AppClientes.exe
+C:\Labs\Csharp\AppClientes\AppClientes\bin\Debug\net7.0\AppClientes.deps.json
+C:\Labs\Csharp\AppClientes\AppClientes\bin\Debug\net7.0\AppClientes.runtimeconfig.json
+C:\Labs\Csharp\AppClientes\AppClientes\bin\Debug\net7.0\AppClientes.dll
+C:\Labs\Csharp\AppClientes\AppClientes\bin\Debug\net7.0\AppClientes.pdb
+C:\Labs\Csharp\AppClientes\AppClientes\obj\Debug\net7.0\AppClientes.csproj.AssemblyReference.cache
+C:\Labs\Csharp\AppClientes\AppClientes\obj\Debug\net7.0\AppClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Labs\Csharp\AppClientes\AppClientes\obj\Debug\net7.0\AppClientes.AssemblyInfoInputs.cache
+C:\Labs\Csharp\AppClientes\AppClientes\obj\Debug\net7.0\AppClientes.AssemblyInfo.cs
+C:\Labs\Csharp\AppClientes\AppClientes\obj\Debug\net7.0\AppClientes.csproj.CoreCompileInputs.cache
+C:\Labs\Csharp\AppClientes\AppClientes\obj\Debug\net7.0\AppClientes.dll
+C:\Labs\Csharp\AppClientes\AppClientes\obj\Debug\net7.0\refint\AppClientes.dll
+C:\Labs\Csharp\AppClientes\AppClientes\obj\Debug\net7.0\AppClientes.pdb
+C:\Labs\Csharp\AppClientes\AppClientes\obj\Debug\net7.0\AppClientes.genruntimeconfig.cache
+C:\Labs\Csharp\AppClientes\AppClientes\obj\Debug\net7.0\ref\AppClientes.dll
